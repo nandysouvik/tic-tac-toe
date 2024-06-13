@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.3f7075b8.css",
-    "main.js": "/my-app/static/js/main.591e5415.js",
-    "static/js/453.e036e8b5.chunk.js": "/my-app/static/js/453.e036e8b5.chunk.js",
-    "static/media/bg-pattern-dark.png": "/my-app/static/media/bg-pattern-dark.f2c6e30a2a887881a35c.png",
-    "index.html": "/my-app/index.html",
-    "main.3f7075b8.css.map": "/my-app/static/css/main.3f7075b8.css.map",
-    "main.591e5415.js.map": "/my-app/static/js/main.591e5415.js.map",
-    "453.e036e8b5.chunk.js.map": "/my-app/static/js/453.e036e8b5.chunk.js.map"
+    "main.css": "/tic-tac-toe/static/css/main.7008a02d.css",
+    "main.js": "/tic-tac-toe/static/js/main.fdddb041.js",
+    "static/js/453.e036e8b5.chunk.js": "/tic-tac-toe/static/js/453.e036e8b5.chunk.js",
+    "static/media/bg-pattern-dark.png": "/tic-tac-toe/static/media/bg-pattern-dark.f2c6e30a2a887881a35c.png",
+    "index.html": "/tic-tac-toe/index.html",
+    "main.7008a02d.css.map": "/tic-tac-toe/static/css/main.7008a02d.css.map",
+    "main.fdddb041.js.map": "/tic-tac-toe/static/js/main.fdddb041.js.map",
+    "453.e036e8b5.chunk.js.map": "/tic-tac-toe/static/js/453.e036e8b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f7075b8.css",
-    "static/js/main.591e5415.js"
+    "static/css/main.7008a02d.css",
+    "static/js/main.fdddb041.js"
   ]
 }
